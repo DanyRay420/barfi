@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "baklavajs": "^1.9.2",
-    "core-js": "^3.6.5",
+    "core-js": "^3.35.1",
     "streamlit-component-lib": "^1.4.0",
     "vue": "^2.6.11"
   },
