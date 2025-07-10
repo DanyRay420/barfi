@@ -77,7 +77,7 @@ pkginfo==1.8.2
 platformdirs==2.4.1
 prometheus-client==0.12.0
 prompt-toolkit==3.0.24
-protobuf==3.19.3
+protobuf==4.25.8
 ptyprocess==0.7.0
 pure-eval==0.2.2
 pyarrow==6.0.1
@@ -124,7 +124,7 @@ twine==3.8.0
 typing_extensions==4.0.1
 tzdata==2021.5
 tzlocal==4.1
-urllib3==1.26.8
+urllib3==2.5.0
 validators==0.18.2
 wcwidth==0.2.5
 webencodings==0.5.1
